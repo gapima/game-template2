@@ -9,12 +9,6 @@ def jogar():
 
     print(banner)
 
-
-
-
-
-
-
     print("Você gostaria de jogar o dado?")
     print("(1)Sim  (2)Não")
     escolha = int(input("Digite sua escolha: "))
