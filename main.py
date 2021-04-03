@@ -22,7 +22,7 @@ def jogar():
 
 
     while(escolha):
-        numero_aleatorio = random.randrange(1, 71)
+        numero_aleatorio = random.randrange(1, 7)
         if (escolha == 1):
             print("Rolando o dado...")
             print("Resultado: {}". format(numero_aleatorio))
